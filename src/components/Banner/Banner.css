@@ -1,0 +1,13 @@
+.banner-section{
+    background-image: url('../../bannerbackground.png');
+    width: 100%;
+    height: 500px;
+    background-position: center center;
+    background-size: cover;
+   
+}
+.search-area{
+    margin: auto;
+    width: 50%;
+    padding-top: 100px;
+}
